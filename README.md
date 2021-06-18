@@ -1,5 +1,5 @@
 # MedicalReportManagement
-This is a website to manage any kind of medical report for a patient from the birth to end.This was a project when I was in my fifth sem in under-grad.
+This is a website to manage any kind of medical report for a patient from the birth to end.This was a project when I was in my fifth sem in under-grad.I am sharing some of the snapshot from my project.
 
 
 ![choose window](https://user-images.githubusercontent.com/48495002/122531032-bcdac080-d03c-11eb-983f-80ee4aa3e20b.png)
